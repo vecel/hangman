@@ -1,4 +1,3 @@
-from ctypes.wintypes import WORD
 import requests
 
 # I am using this free API: https://github.com/mcnaveen/Random-Words-API
