@@ -1,5 +1,6 @@
 import requests
 
+# I am using this free API: https://github.com/mcnaveen/Random-Words-API
 
 def get_word_object() -> dict :
     response = requests.get("https://random-words-api.vercel.app/word")
